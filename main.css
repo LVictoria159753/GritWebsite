@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    clear:both;
+}
+/* Top Section */
+
+    #section1{
+        background-color: grey;
+    }
+
+    /* Header */
+    nav{
+        border: solid 1px red;
+
+
+    }
+    a{
+        text-decoration: none;
+        color:black;
+        display:inline-block;
+    }
+    section nav button{
+        float:right;
+    }
+  
+
+/* 2nd Section */
+/* Middle Video Section */
+/*  4th Section */
+/* Last Section */
+/* Footer Section */
