@@ -29,6 +29,7 @@ html {
 * {
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
+
   }
   
   /* Clear fix hack */
@@ -46,16 +47,17 @@ html {
   }
   
 
-body section h1, h2 {
-    font-family: "Oswald", sans-serif;
-    font-weight: 400;
-}
-
 
 html {
    font-size: 62.5%;
 }
 
+
+h1, h3{
+  font-family: "Oswald", sans-serif;
+  font-weight: 400;
+  font-size: 4rem;
+}
 
 /* Top Section */
 #why{
@@ -83,11 +85,14 @@ section{
 
 #visitgym{
     float:left;
+    background-color: grey ;
 }
     article{
       border:1px solid green;
-      width:45%;
+      width:50%;
       float:left;
+      height:500px;
+      line-height-step: ;
     }
     
     article h5, article p{
@@ -101,11 +106,24 @@ section{
       
     }
 
+
  button{
         margin-left: 44%;
         float: left;
+        border:0.1em solid #FFFFFF;
+        background-color:grey;
+        padding:0.35em 1.2em;
+        border:0.1em solid #FFFFFF;
+       
+
       }
-/*  4th Section */
+
+
+#box1, #box2{
+
+}
+
+      /*  4th Section */
 /* Last Section */
 /* Footer Section */
 
