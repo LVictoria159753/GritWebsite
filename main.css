@@ -59,7 +59,11 @@ h1, h3{
   font-size: 4rem;
 }
 
-/* Top Section */
+/* Nav and Section 1 */
+
+
+
+/* Why Section */
 #why{
     text-align: center;
     border: 1px solid red;
@@ -74,6 +78,21 @@ h1, h3{
   
 
 /* 2nd Section */
+
+
+.whyp{
+  text-align: center;
+
+
+
+}
+
+#why{
+  padding-top: 150px;
+}
+#why >p{
+  margin:0 250px
+}
 
 
 /* Middle Video Section */
